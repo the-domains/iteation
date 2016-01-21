@@ -1,0 +1,28 @@
+name: ITeation
+favicon: null
+layout_spectrum: 0.45718091423623264
+typography_spectrum: 0.08999078534543514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3517417509574443
+  lightness: 0.19372020498849452
+  saturation: 0.7668831830378622
+  rhythmicContrast: 0.18319263379089534
+purpose: []
